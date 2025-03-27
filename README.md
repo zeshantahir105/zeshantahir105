@@ -31,11 +31,7 @@
 ## 💻 Tech Stack
 
 ### 🌐 Frontend  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧠 Backend  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -69,10 +65,10 @@
 
 ## 📌 Pinned Projects
 
-🔹 [Web App for Academic & Workplace Skills Management](https://mari.com/) – A learning and skills management system built with MERN stack, Firebase Auth, and GCP hosting  
 🔹 [Influencer Marketing Platform](https://luagroup.com/) – Full-stack app with NextJS, SQL, REST APIs, and AWS deployment  
-🔹 [Secure Protocol Simulation] – Protocol-level network security using Wireshark and Python  
-🔹 [IEEE X-Ray Analysis Tool] – Cobb Angle Measurement system from X-Ray images, Python-based with image processing
+🔹 [Web App for Academic & Workplace Skills Management](https://mari.com/) – A learning and skills management system built with MERN stack, Firebase Auth, and GCP hosting  
+🔹 Secure Protocol Simulation – Protocol-level network security using Wireshark and Python  
+🔹 IEEE X-Ray Analysis Tool – Cobb Angle Measurement system from X-Ray images, Python-based with image processing
 
 ---
 
