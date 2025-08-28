@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img width="400px" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="developer gif"/>
+    <img width="400px" height="auto" src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://drive.google.com/file/d/1E8BAy67PbEysud3YpQpgdhUX-1r4ZVNj/view?usp=sharing)" alt="cover"/>
   </a>
 </div>
 
