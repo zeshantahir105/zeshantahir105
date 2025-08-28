@@ -50,7 +50,7 @@
 - Developed and integrated **RESTful APIs** and **GraphQL** services
 - Type-safe development with **TypeScript** across frontend & backend
 - **Firebase**, **GCP**, and **AWS**
-- Dockerized applications, implemented CI/CD pipelines
+- Implemented CI/CD pipelines and created deployment processes.
 - Agile collaboration with distributed teams using Git, Trello, and GitHub Projects
 
 ---
