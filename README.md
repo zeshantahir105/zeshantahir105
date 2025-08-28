@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Muhammad Zeshan Tahir</h1>
-<h3 align="center">Full Stack MERN Developer | Cloud Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack MERN Developer | Coding Enthusiast | Problem Solver</h3>
 
 <p align="center"><em>"Building fast, scalable, and smart web solutions."</em></p>
 
@@ -14,8 +14,7 @@
 ## 💫 About Me
 - 💻 Full Stack Developer with 3+ years of professional experience
 - 🌐 Expert in MERN Stack, REST APIs, GraphQL & cloud-native web apps
-- 🔄 Working with remote teams, building real-world products that scale
-- ☁️ Strong grasp of **Firebase**, **GCP**, **AWS**, and containerization with **Docker**
+- 🔄 Worked with remote and onsite teams, building real-world scalable products
 
 ---
 
@@ -25,6 +24,7 @@
 📧 **Email:** [zeshantahir105@gmail.com](mailto:zeshantahir105@gmail.com)  
 🌐 **Portfolio:** [RemoteHub](https://www.remotehub.com/m.zeshan.tahir/portfolios)  
 🧑‍💻 **GitHub:** [@zeshantahir105](https://github.com/zeshantahir105)
+📄 **Resume:** [@Zeshan_Resume](https://drive.google.com/file/d/1UFktjWZRFMF2x7qSnl0X-OfWrkXYqE8K/view?usp=sharing)
 
 ---
 
@@ -49,7 +49,7 @@
 - Built full-stack apps using **React**, **NextJS**, **Node**, and **PostgreSQL**
 - Developed and integrated **RESTful APIs** and **GraphQL** services
 - Type-safe development with **TypeScript** across frontend & backend
-- Cloud-native apps with **Firebase**, **GCP**, and **AWS**
+- **Firebase**, **GCP**, and **AWS**
 - Dockerized applications, implemented CI/CD pipelines
 - Agile collaboration with distributed teams using Git, Trello, and GitHub Projects
 
