@@ -64,17 +64,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Zeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeshantahir105&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeshantahir105&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=zeshantahir105&theme=tokyonight&no-frame=true&margin-w=4)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=zeshantahir105&icon=0&color=0)](https://visitcount.itsvg.in)
