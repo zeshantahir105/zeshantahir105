@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img width="400px" height="auto" src="https://drive.google.com/file/d/1E8BAy67PbEysud3YpQpgdhUX-1r4ZVNj/view?usp=sharing" alt="cover"/>
+    <img width="400px" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="developer gif"/>
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zeshan-tahir-638423179)  
 📧 **Email:** [zeshantahir105@gmail.com](mailto:zeshantahir105@gmail.com)  
 🌐 **Portfolio:** [RemoteHub](https://www.remotehub.com/m.zeshan.tahir/portfolios)  
-🧑‍💻 **GitHub:** [@zeshantahir105](https://github.com/zeshantahir105)
+🧑‍💻 **GitHub:** [@zeshantahir105](https://github.com/zeshantahir105) </br>
 📄 **Resume:** [@Zeshan_Resume](https://drive.google.com/file/d/1UFktjWZRFMF2x7qSnl0X-OfWrkXYqE8K/view?usp=sharing)
 
 ---
